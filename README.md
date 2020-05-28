@@ -1,5 +1,15 @@
 # Vue3 hooks
 
+[![npm package](https://img.shields.io/npm/v/vue3-hooks.svg)](https://www.npmjs.org/package/vue3-hooks)
+[![npm download](https://img.shields.io/npm/dt/vue3-hooks.svg)](https://www.npmjs.org/package/vue3-hooks)
+[![github license](https://img.shields.io/github/license/shallinta/vue3-hooks.svg)](https://github.com/shallinta/vue3-hooks/blob/master/LICENSE)
+[![github issues open](https://img.shields.io/github/issues/shallinta/vue3-hooks.svg)](https://github.com/shallinta/vue3-hooks/issues?q=is%3Aopen+is%3Aissue)
+[![github issues closed](https://img.shields.io/github/issues-closed/shallinta/vue3-hooks.svg)](https://github.com/shallinta/vue3-hooks/issues?q=is%3Aissue+is%3Aclosed)
+![github language top](https://img.shields.io/github/languages/top/shallinta/vue3-hooks.svg)
+[![github stars](https://img.shields.io/github/stars/shallinta/vue3-hooks.svg?style=social&label=Stars)](https://github.com/shallinta/vue3-hooks)  
+
+[![NPM](https://nodei.co/npm/vue3-hooks.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vue3-hooks)
+
 > Using vue3.x composition api in react-hooks style.
 
 The react-like vue3 hooks are implemented just with composition api, requiring no any other dependencies but vue3.
