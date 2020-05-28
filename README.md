@@ -14,9 +14,12 @@
 
 The react-like vue3 hooks are implemented just with composition api, requiring no any other dependencies but vue3.
 
-If you are used to react hooks, and new to vue 3, you will try this.
+If you are used to react hooks, and new to vue 3, you will try this. In this case, however, I suggest learning original composition api. It's easy :D.
 
-However, I suggest learning original composition api. It's easy :D.
+<b>
+What `vue3-hooks` really make sense is that so many third-party hooks library based on react can now easily migrate to vue technolegy stack.
+</b>
+If you are an author of third-party react hooks, you may consider to use `vue3-hooks` to migrate your library to vue family. Very few code modification is required.
 
 ## install
 
