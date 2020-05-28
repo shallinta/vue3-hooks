@@ -1,0 +1,33 @@
+{
+  "name": "vue3-hooks",
+  "version": "1.0.0",
+  "description": "Using vue3.x composition api in react-hooks style.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shallinta/vue3-hooks.git"
+  },
+  "keywords": [
+    "vue3",
+    "vue-hooks",
+    "react-hooks",
+    "composition-api",
+    "vue3-hooks",
+    "useState",
+    "useEffect",
+    "reactive",
+    "ref"
+  ],
+  "author": "John Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shallinta/vue3-hooks/issues"
+  },
+  "homepage": "https://github.com/shallinta/vue3-hooks#readme",
+  "peerDependencies": {
+    "vue": "^3.0.0-beta.14"
+  }
+}
