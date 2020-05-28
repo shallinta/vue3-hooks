@@ -67,3 +67,11 @@ setup(props) {
 // ...
 
 ```
+
+## Recently updated
+
+See [CHANGELOG](CHANGELOG.md) here.
+
+## LICENSE
+
+[MIT](LICENSE)
